@@ -13,6 +13,6 @@ A package is a namespace that organizes a set of related classes and interfaces.
 Example: com.example.java.sample com.example.java.sample.HelloWorld.java<br/>
 <br/>
 In the Java programming language, the terms "field" and "variable" are both used; this is a common source of confusion among new developers, since both often seem to refer to the same thing.<br/>
-<a href="https://github.com/aditya-jois/java-samples/blob/master/Variables.java">Variables.java</a><br/>
+<a href="https://github.com/aditya-jois/java-samples/blob/master/Variables.java">Variables.java</a>&nbsp;<a href="https://github.com/aditya-jois/java-samples/blob/master/Literals.java">Literals.java</a><br/>
 <br/>
 <a href="https://github.com/aditya-jois/java-samples/blob/master/Singleton.java">Singleton.java</a><br/>
