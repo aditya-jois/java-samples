@@ -61,7 +61,6 @@ public class Operators {
 		^       Bitwise exclusive OR
 		|       Bitwise inclusive OR
 
-		Operators may be used in building expressions, which compute values; expressions are the core components of statements; statements may be grouped into blocks.
 		An expression is a construct made up of variables, operators, and method invocations, which are constructed according to the syntax of the language, that evaluates to a single value.
 		A statement forms a complete unit of execution.
 		Expression statement | Declaration Statement | Control Flow Statement
