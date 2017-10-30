@@ -17,6 +17,7 @@ An array is a container object that holds a fixed number of values of a single t
 Operators are special symbols that perform specific operations on one, two, or three operands, and then return a result.<br/>
 Operators may be used in building expressions, which compute values; expressions are the core components of statements; statements may be grouped into blocks.<br/>
 <a href="https://github.com/aditya-jois/java-samples/blob/master/Operators.java">Operators.java</a><hr/>
-Control flow statements (incomplete)<br/>
+Control flow statements, break up the flow of execution by employing decision making, looping, and branching, enabling your program to conditionally execute particular blocks of code.<br/>
 <a href="https://github.com/aditya-jois/java-samples/blob/master/ControlFlow.java"></a>ControlFlow.java<br/>
+
 <a href="https://github.com/aditya-jois/java-samples/blob/master/Singleton.java">Singleton.java</a><br/>
