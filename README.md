@@ -20,4 +20,5 @@ Operators may be used in building expressions, which compute values; expressions
 Control flow statements, break up the flow of execution by employing decision making, looping, and branching, enabling your program to conditionally execute particular blocks of code.<br/>
 <a href="https://github.com/aditya-jois/java-samples/blob/master/ControlFlow.java">ControlFlow.java</a><hr/>
 A <b>class</b> contains all the code that provides for the <u>life cycle</u> of the objects created from the class: constructors for initializing new objects, declarations for the fields that provide the state of the class and its objects, and methods to implement the behavior of the class and its objects.
+<hr/>
 <a href="https://github.com/aditya-jois/java-samples/blob/master/Singleton.java">Singleton.java</a><br/>
