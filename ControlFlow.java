@@ -122,6 +122,30 @@ public class ControlFlow {
 
 		// We recommend using this form of the for statement instead of the
 		// general form whenever possible.
+		
+		// BREAK
+		// The break statement has two forms: labeled and unlabeled.
+		// You saw the unlabeled form in the previous discussion of the switch statement.
+		// You can also use an unlabeled break to terminate a for, while, or do-while loop.
+		
+		// An unlabeled break statement terminates the innermost switch, for, while, or do-while statement,
+		// but a labeled break terminates an outer statement.
+		
+		// The break statement terminates the labeled statement; it does not transfer the flow of control to the label.
+		// Control flow is transferred to the statement immediately following the labeled (terminated) statement.
+		
+		// CONTINUE
+		// The continue statement skips the current iteration of a for, while , or do-while loop.
+		// The unlabeled form skips to the end of the innermost loop's body and evaluates the boolean expression that controls the loop.
+		// A labeled continue statement skips the current iteration of an outer loop marked with the given label.
+		
+		// RETURN
+		// The return statement exits from the current method, and control flow returns to where the method was invoked.
+		// The return statement has two forms: one that returns a value, and one that doesn't.
+		
+		// return count++; // To return a value, simply put the value (or an expression that calculates the value) after the return keyword.
+		// The data type of the returned value must match the type of the method's declared return value.
+		// return; // When a method is declared void, use the form of return that doesn't return a value.
 
 	}
 
