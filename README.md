@@ -18,6 +18,6 @@ Operators are special symbols that perform specific operations on one, two, or t
 Operators may be used in building expressions, which compute values; expressions are the core components of statements; statements may be grouped into blocks.<br/>
 <a href="https://github.com/aditya-jois/java-samples/blob/master/Operators.java">Operators.java</a><hr/>
 Control flow statements, break up the flow of execution by employing decision making, looping, and branching, enabling your program to conditionally execute particular blocks of code.<br/>
-<a href="https://github.com/aditya-jois/java-samples/blob/master/ControlFlow.java">ControlFlow.java</a><br/>
-
+<a href="https://github.com/aditya-jois/java-samples/blob/master/ControlFlow.java">ControlFlow.java</a><hr/>
+A <b>class</b> contains all the code that provides for the <u>life cycle</u> of the objects created from the class: constructors for initializing new objects, declarations for the fields that provide the state of the class and its objects, and methods to implement the behavior of the class and its objects.
 <a href="https://github.com/aditya-jois/java-samples/blob/master/Singleton.java">Singleton.java</a><br/>
